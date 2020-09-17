@@ -1,5 +1,10 @@
 # Spring-Boot-Transaction
 
+## Toppics
+
+- Transaction Propagation
+- Transaction Isolation
+
 ## การจัดการ JDBC Transaction แบบปกติ
 
 พื้นฐานการจัดการ Transaction จะมีรูปแบบดังนี้
