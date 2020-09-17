@@ -2,6 +2,8 @@
 
 ## การจัดการ JDBC Transaction แบบปกติ
 
+พื้นฐานการจัดการ Transaction จะมีรูปแบบดังนี้
+
     import java.sql.Connection;
 
     Connection connection = dataSource.getConnection(); // (1)
