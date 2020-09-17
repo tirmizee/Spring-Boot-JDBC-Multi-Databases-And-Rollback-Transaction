@@ -1,6 +1,6 @@
 # Spring-Boot-Transaction
 
-## การจัดดาร JDBC Transaction แบบปกติ
+## การจัดการ JDBC Transaction แบบปกติ
 
     import java.sql.Connection;
 
