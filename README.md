@@ -2,8 +2,14 @@
 
 ## Toppics
 
-- Transaction Propagation
-- Transaction Isolation
+### Transaction Propagation
+- REQUIRED
+- SUPPORTS
+- NOT_SUPPORTED
+- REQUIRES_NEW
+- NEVER
+- MANDATORY
+### Transaction Isolation
 
 ## การจัดการ JDBC Transaction แบบปกติ
 
