@@ -1,5 +1,7 @@
 # Spring-Boot-Transaction
 
+## การจัดดาร JDBC Transaction แบบปกติ
+
     import java.sql.Connection;
 
     Connection connection = dataSource.getConnection(); // (1)
