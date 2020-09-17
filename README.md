@@ -16,3 +16,5 @@
     } catch (SQLException e) {
         connection.rollback(); // (4)
     }
+
+- 1.คุณต้องเชื่อมต่อกับฐานข้อมูลเพื่อเริ่มต้น Transaction
