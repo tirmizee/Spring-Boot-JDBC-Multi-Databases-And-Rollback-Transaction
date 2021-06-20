@@ -4,7 +4,7 @@
 
 ### ACID Transaction
  
-- <b>Atomicity</b> It means either all success or all failure. All tasks of a transaction are performed or none of them are. There are no partial transactions. For example, if a transaction starts updating 100 rows, but the system fails after 20 updates, then the database rolls back the changes to these 20 rows.
+- <b>Atomicity</b> หมายถึงความสำเร็จทั้งหมดหรือความล้มเหลวทั้งหมด. All tasks of a transaction are performed or none of them are. There are no partial transactions. For example, if a transaction starts updating 100 rows, but the system fails after 20 updates, then the database rolls back the changes to these 20 rows.
 - <b>Consistency</b>
 - <b>Isolation</b>
 - <b>Durability</b>
